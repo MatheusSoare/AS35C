@@ -1,6 +1,6 @@
 # AS35C - Arquitetura de software
 
-# Nomes
+## Nomes
 
 * Carlos Roberto Ferreira Sanches - RA: 1828843
 
